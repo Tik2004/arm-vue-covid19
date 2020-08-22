@@ -1,16 +1,16 @@
-# vue-covid-19
+# vue-covid-19 made by Tigran Aparanski
 
-## Project setup
+## You first have to install all dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### After Compile that shit and run it on your machine
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Make it ready for production
 ```
 npm run build
 ```
