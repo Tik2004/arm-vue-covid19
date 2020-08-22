@@ -1,10 +1,10 @@
 
 <template>
-    <table class="table table-striped">
+    <table class="table table-striped" id="tabule">
   <thead>
-    <tr>
-      <th scope="col">Case type</th>
-      <th scope="col">People</th>
+    <tr  style="letter-spacing:2px;">
+      <th style="font-family:'Do Hyeon',sans-serif;" scope="col">Case type</th>
+      <th style="font-family:'Do Hyeon',sans-serif;" scope="col">People</th>
     </tr>
   </thead>
   <tbody>

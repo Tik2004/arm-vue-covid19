@@ -12,11 +12,17 @@
     "bootstrap": "^4.5.2",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.5",
+    "gsap": "^3.5.0",
     "moment": "^2.27.0",
+    "sweetalert": "^2.1.2",
     "vue": "^2.6.11",
+    "vue-animejs": "^2.1.1",
     "vue-chartjs": "^3.5.0",
     "vue-clock2": "^1.1.5",
-    "vue-kinesis": "^1.1.5"
+    "vue-kinesis": "^1.1.5",
+    "vue-meta": "^2.4.0",
+    "vue-moment": "^4.1.0",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
