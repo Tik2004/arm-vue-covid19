@@ -1,5 +1,7 @@
 # vue-covid-19 made by Tigran Aparanski
 
+# Live Demo <a href='https://bit.ly/armcovid' target='_blank'>Here</a>
+
 ## You first have to install all dependencies
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
